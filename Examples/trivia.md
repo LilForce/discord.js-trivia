@@ -1,6 +1,6 @@
 # SIMPLE WAY
 ```js
-const Trivia = require("discord.js-trivia")
+const { Trivia } = require("discord.js-trivia")
 new Trivia({
     message: message,
     slash_command: false,
@@ -9,7 +9,7 @@ new Trivia({
 
 # SIMPLE WAY WITH SLASH COMMANDS
 ```js
-const Trivia = require("discord.js-trivia")
+const { Trivia } = require("discord.js-trivia")
 new Trivia({
     message: interaction,
     slash_command: true,
@@ -18,7 +18,7 @@ new Trivia({
 
 # ADVANCE WAY
 ```js
-const Trivia = require("discord.js-trivia")
+const { Trivia } = require("discord.js-trivia")
 new Trivia({
     message: message,
     slash_command: false,
@@ -32,7 +32,7 @@ new Trivia({
 
 # ADVANCE WAY WITH SLASH COMMANDS
 ```js
-const Trivia = require("discord.js-trivia")
+const { Trivia } = require("discord.js-trivia")
 new Trivia({
     message: interaction,
     slash_command: true,
