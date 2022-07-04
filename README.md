@@ -1,5 +1,4 @@
-<p align="center"><img width="100px"
-<h1 align="center">DISCORD.JS-TRIVIA</h1>
+
 <p align="center">
    <a href="https://www.npmjs.com/package/discord.js-trivia"><img src="https://img.shields.io/npm/v/discord.js-trivia.js.svg?style=flat-square" /></a>
    <a href="https://github.com/LilForce/discord.js-trivia/blob/bot/LICENCE"><img src="https://nuggies.js.org/assets/img/license.ade17f5e.svg" /></a>
